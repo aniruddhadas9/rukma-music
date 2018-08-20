@@ -1,2 +1,3 @@
-# rukma-music
-A site for student of rukmani prabhu and his diciples
+# Rukma Music
+
+Music is the life line of everyone.
